@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "VIsual"
+		},
+		{
+			"path": "programar"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VIsual"
+	}
+}
